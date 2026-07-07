@@ -64,6 +64,22 @@ UI/UX Design Intern
 Future Interns
 
 ---
+#Screen shot
+design 1
+ <img width="2360" height="956" alt="UI_UX task 1 (2)" src="https://github.com/user-attachments/assets/6eefe6b3-99ba-4637-b0e3-4a05f82a98ee" />
+ design 2 
+ <img width="306" height="666" alt="Screenshot 2026-07-07 234720" src="https://github.com/user-attachments/assets/a39057ef-6f1e-4472-803b-2aaf9f6d16bd" />
+ design 3
+ <img width="307" height="665" alt="Screenshot 2026-07-07 234725" src="https://github.com/user-attachments/assets/956a1310-5be1-46f9-8710-765c3b44fb26" />
+ design 4
+ <img width="304" height="665" alt="Screenshot 2026-07-07 234732" src="https://github.com/user-attachments/assets/e9ab2dfe-d302-4b4d-95c6-aed9bceac3c1" />
+ design 5
+ <img width="304" height="663" alt="Screenshot 2026-07-07 234756" src="https://github.com/user-attachments/assets/948dab12-64a8-49ed-b607-dfee9c98c551" />
+
+ 
+
+
+
 
 **TRUE DREAM HOMES**  
 *From Vision to Reality*
